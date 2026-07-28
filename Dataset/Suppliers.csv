@@ -1,0 +1,301 @@
+Supplier_ID,Supplier_Name,Supplier_Rating,Supplier_Location
+SUP001,"Sule, Bhatti and Peri",4.1,Mumbai
+SUP002,Deshmukh PLC,3.7,Bettiah
+SUP003,Buch-Kashyap,3.2,Hapur
+SUP004,Hora-Bhagat,3.8,Gopalpur
+SUP005,Sur-Bhatt,4.9,Bongaigaon
+SUP006,Sarna Group,3.8,Shahjahanpur
+SUP007,"Balay, Rai and Seth",3.5,Thane
+SUP008,Nadkarni-Thakkar,3.6,Dharmavaram
+SUP009,Bera-Nadkarni,3.4,Erode
+SUP010,Sastry LLC,4.4,Mango
+SUP011,Goel-Dhar,4.8,Burhanpur
+SUP012,Oak-Iyer,4.1,Guntakal
+SUP013,Patel and Sons,5.0,Bharatpur
+SUP014,Brar-Date,3.7,Satara
+SUP015,"Sama, Agarwal and Doctor",3.2,Tiruvottiyur
+SUP016,"Dani, Saraf and Mody",3.8,Aligarh
+SUP017,"Chokshi, Sathe and Uppal",4.5,Bidar
+SUP018,Kapadia Group,3.7,Sikar
+SUP019,Vohra PLC,4.9,Durg
+SUP020,Mahajan LLC,3.9,Nellore
+SUP021,Sama Group,4.2,Kishanganj
+SUP022,Panchal-Radhakrishnan,3.4,Dhule
+SUP023,"Sani, Korpal and Srivastava",3.4,Aizawl
+SUP024,Savant PLC,3.2,Firozabad
+SUP025,"Ahluwalia, Parmar and Pillay",3.4,Bokaro
+SUP026,"Sharaf, More and Bhargava",4.1,Jaunpur
+SUP027,"Wadhwa, Kakar and Narayan",4.0,Berhampore
+SUP028,Lala PLC,4.1,Korba
+SUP029,"Sidhu, Srinivasan and Agate",3.6,Durgapur
+SUP030,"Sani, Dugar and Chaudhary",3.6,Jhansi
+SUP031,Doshi-Gokhale,3.4,Begusarai
+SUP032,Patla-Deshmukh,3.1,Unnao
+SUP033,"Sant, Nagi and Dutt",4.0,Alappuzha
+SUP034,"Bal, Nagi and Lata",3.0,Nellore
+SUP035,Salvi and Sons,3.6,Hindupur
+SUP036,Hari-Sem,4.0,Dindigul
+SUP037,Chandran Inc,3.6,Coimbatore
+SUP038,Comar Group,3.6,Silchar
+SUP039,Kapur-Bora,3.9,Bhavnagar
+SUP040,Sridhar-Pandey,3.8,Kharagpur
+SUP041,Varughese-Chana,4.3,Thiruvananthapuram
+SUP042,"Sastry, Soni and Gupta",3.8,Rewa
+SUP043,Vasa-Chauhan,3.4,Moradabad
+SUP044,Mohan-Subramaniam,3.9,Sri Ganganagar
+SUP045,Ratta-Handa,4.9,Hyderabad
+SUP046,Toor Inc,4.5,Mirzapur
+SUP047,Gara Ltd,4.1,Yamunanagar
+SUP048,Ganguly-Acharya,4.4,Madanapalle
+SUP049,Kumar PLC,4.4,Bhiwani
+SUP050,"Deshmukh, Kumer and Mishra",3.5,Chapra
+SUP051,"Biswas, Vasa and Din",4.9,Bikaner
+SUP052,Cheema-Seshadri,4.7,Srikakulam
+SUP053,"Babu, Hegde and Wable",4.2,Jalna
+SUP054,Murty and Sons,4.4,Nandyal
+SUP055,"Yogi, Amble and Mall",3.3,Pallavaram
+SUP056,Ghose Ltd,3.8,Giridih
+SUP057,Krishnan and Sons,4.4,Aurangabad
+SUP058,Bala-Swaminathan,4.4,Shimla
+SUP059,Sane Ltd,4.5,Sangli-Miraj & Kupwad
+SUP060,Hegde-Shetty,4.8,Rajpur Sonarpur
+SUP061,Borah-Varghese,3.3,Hazaribagh
+SUP062,Barad-Dugar,3.9,Ujjain
+SUP063,Shenoy LLC,3.9,Bangalore
+SUP064,Sethi-Krishna,4.3,Singrauli
+SUP065,Mallick Group,4.4,Nangloi Jat
+SUP066,"Sarin, Tara and Parikh",3.5,Ambala
+SUP067,Trivedi and Sons,4.8,Jehanabad
+SUP068,"Kara, Deshpande and Bhavsar",4.8,Ahmedabad
+SUP069,"Tak, Karpe and Toor",4.2,Bardhaman
+SUP070,"Edwin, Choudhry and Raghavan",4.6,Ulhasnagar
+SUP071,"Brahmbhatt, Srinivas and Agarwal",3.2,Jabalpur
+SUP072,Bandi-Walla,4.7,Karaikudi
+SUP073,"Bala, Loyal and Srivastava",4.2,Chittoor
+SUP074,Morar-Acharya,3.3,Siliguri
+SUP075,"Agate, Atwal and Mohan",3.5,Karawal Nagar
+SUP076,Chacko-Sarraf,4.0,Cuttack
+SUP077,Upadhyay PLC,3.3,Tiruchirappalli
+SUP078,"Khurana, Ramesh and Sha",4.1,Howrah
+SUP079,"Ganesh, Kunda and De",4.6,Dehri
+SUP080,Mangat Ltd,4.5,Solapur
+SUP081,Sahni Group,4.6,Ballia
+SUP082,Majumdar and Sons,4.0,Rajpur Sonarpur
+SUP083,Bhagat Inc,4.4,Ludhiana
+SUP084,"Dewan, Uppal and Bose",4.8,Sri Ganganagar
+SUP085,"Lal, Bahl and Krishna",3.8,Proddatur
+SUP086,Nagi-Chad,4.6,Morena
+SUP087,"Kala, Issac and Radhakrishnan",3.1,Secunderabad
+SUP088,"Dara, Sankaran and Mutti",3.9,Pune
+SUP089,Gara-Koshy,3.3,Tezpur
+SUP090,Chaudhari-Sanghvi,4.8,Rajahmundry
+SUP091,Mani Ltd,4.8,Kadapa
+SUP092,Shankar Inc,4.2,Rohtak
+SUP093,Karpe-Borah,4.6,Srikakulam
+SUP094,"Narayan, Ramanathan and Randhawa",4.6,Ulhasnagar
+SUP095,"Singh, Pathak and Rajagopalan",3.4,Dibrugarh
+SUP096,Goyal Group,3.8,Mau
+SUP097,Guha-Badal,4.2,Surendranagar Dudhrej
+SUP098,Sant-Bir,4.8,Kolhapur
+SUP099,Anne-Contractor,3.6,South Dumdum
+SUP100,Pandey Inc,4.0,Bhilwara
+SUP101,Gade LLC,3.8,Tezpur
+SUP102,Virk Inc,4.1,Jabalpur
+SUP103,Prashad-Mittal,4.3,Ozhukarai
+SUP104,"Chhabra, Hans and Choudhry",4.0,Rampur
+SUP105,Hari PLC,4.9,Madanapalle
+SUP106,Dyal PLC,3.0,Amroha
+SUP107,"Hans, Nazareth and Sangha",4.2,Dhule
+SUP108,Mistry-Karan,3.2,Mangalore
+SUP109,"Sahni, Walla and Tripathi",4.3,Jamshedpur
+SUP110,Suresh-Srinivasan,3.5,Amritsar
+SUP111,Misra and Sons,4.0,Ramgarh
+SUP112,Wali LLC,4.4,Ballia
+SUP113,Borra-Tiwari,3.0,Aurangabad
+SUP114,Vala and Sons,3.9,Belgaum
+SUP115,Madan PLC,3.4,Pudukkottai
+SUP116,Prakash-Basak,4.1,Raipur
+SUP117,Chandran-Nagy,4.8,Jalandhar
+SUP118,Thaman-Deo,5.0,Saharanpur
+SUP119,Din-Talwar,4.0,Sasaram
+SUP120,"Sachar, Kashyap and Subramanian",3.4,Mumbai
+SUP121,Karnik-Suri,4.1,Coimbatore
+SUP122,"Sandhu, Morar and Rege",4.2,Thoothukudi
+SUP123,"Garde, Srinivas and Atwal",3.1,Kozhikode
+SUP124,"Nazareth, Dara and Walla",4.6,Sirsa
+SUP125,"Brar, Tiwari and Sane",3.1,Begusarai
+SUP126,Hora Group,4.4,Kalyan-Dombivli
+SUP127,"Pal, Nath and Bumb",4.8,Uluberia
+SUP128,Padmanabhan-Dugar,4.3,Loni
+SUP129,"Bains, Gole and Kar",3.5,Madanapalle
+SUP130,Kuruvilla LLC,3.3,Anantapur
+SUP131,"Wable, Saraf and Mutti",4.9,Noida
+SUP132,Sandal-Kaul,3.9,Kamarhati
+SUP133,Chokshi-Mahal,3.7,Bahraich
+SUP134,Basak PLC,4.3,Dibrugarh
+SUP135,Rastogi-Ghosh,4.8,Nangloi Jat
+SUP136,"Kapur, Gera and Sidhu",4.2,Medininagar
+SUP137,Sule-Rau,3.8,Bhimavaram
+SUP138,Kant-Sheth,4.6,Durgapur
+SUP139,Brar LLC,3.6,Gaya
+SUP140,Sha-Kashyap,3.8,Ghaziabad
+SUP141,Devan LLC,4.3,Belgaum
+SUP142,"Palla, Ben and Palan",3.6,Kadapa
+SUP143,"Bandi, Amble and Tara",4.0,Mumbai
+SUP144,Dass Group,4.4,Deoghar
+SUP145,Patla and Sons,3.5,Anantapur
+SUP146,Uppal-Patla,3.5,Bidar
+SUP147,"Bajaj, Setty and Devi",4.6,Kavali
+SUP148,Dhawan-Sant,3.3,Eluru
+SUP149,"Shroff, Zachariah and Nayak",4.8,Dehri
+SUP150,Hayre Group,3.1,Sasaram
+SUP151,Wadhwa LLC,3.8,Mirzapur
+SUP152,Ranganathan Group,3.3,Sangli-Miraj & Kupwad
+SUP153,Mane-Merchant,3.0,Karawal Nagar
+SUP154,Andra-Dugar,3.9,Surendranagar Dudhrej
+SUP155,Gupta Group,3.3,Katni
+SUP156,Magar and Sons,4.8,Jaunpur
+SUP157,Pandya-Biswas,4.2,Avadi
+SUP158,"Tara, Bhattacharyya and Khare",3.6,Pune
+SUP159,Vala-Nagy,4.1,Jehanabad
+SUP160,"Nagarajan, Chatterjee and Banerjee",4.5,Warangal
+SUP161,"Ram, Kulkarni and Guha",4.8,Ballia
+SUP162,Parsa LLC,4.9,Durgapur
+SUP163,Sankar LLC,3.9,Satara
+SUP164,Tella-Kulkarni,3.7,Vadodara
+SUP165,"Bobal, Loke and Pau",3.7,Bongaigaon
+SUP166,Patel-Doctor,4.2,Rewa
+SUP167,Brahmbhatt-Chand,3.3,Burhanpur
+SUP168,Swamy Group,4.2,Ozhukarai
+SUP169,Nagy and Sons,3.7,Giridih
+SUP170,Koshy and Sons,4.8,Kirari Suleman Nagar
+SUP171,Ravi and Sons,4.5,Aizawl
+SUP172,"Gupta, Subramanian and Puri",4.1,Kakinada
+SUP173,Kunda PLC,4.8,Ahmednagar
+SUP174,Chauhan Group,4.0,Mumbai
+SUP175,Rattan-Singhal,3.4,Muzaffarpur
+SUP176,Magar and Sons,3.1,Ambala
+SUP177,Chana and Sons,4.0,Cuttack
+SUP178,Ghosh Group,4.7,North Dumdum
+SUP179,Pingle Group,4.7,Rajahmundry
+SUP180,Dash Inc,4.3,Tiruppur
+SUP181,"Wadhwa, Sahni and Pandey",4.7,Kumbakonam
+SUP182,Shenoy-Saha,4.5,Rajahmundry
+SUP183,"Raman, Upadhyay and Andra",4.6,Udaipur
+SUP184,"Shah, Dutt and Dixit",4.5,Anantapur
+SUP185,"Golla, Venkataraman and Gupta",4.9,Arrah
+SUP186,"Oommen, Pillai and Mistry",4.0,Kalyan-Dombivli
+SUP187,"Misra, Sur and Varkey",3.4,Tirupati
+SUP188,Borde and Sons,3.4,Medininagar
+SUP189,Baria PLC,3.8,Ongole
+SUP190,"Dara, Barad and Kamdar",3.9,Mira-Bhayandar
+SUP191,Pai-Chaudhry,3.1,Machilipatnam
+SUP192,Warrior-Kota,3.8,Bongaigaon
+SUP193,Dewan Inc,3.7,Sri Ganganagar
+SUP194,"Keer, Mannan and Sekhon",3.4,Mangalore
+SUP195,"Mangat, Gokhale and More",3.4,Kozhikode
+SUP196,"Subramanian, Kulkarni and Radhakrishnan",4.2,Mysore
+SUP197,"Ramanathan, Borra and Buch",4.1,Hosur
+SUP198,Issac PLC,4.8,Bhopal
+SUP199,Natt-Shanker,3.6,Bhatpara
+SUP200,"Chopra, Sibal and Walla",4.3,Arrah
+SUP201,Sandal-Choudhury,4.6,Kharagpur
+SUP202,"Khurana, Chandran and Thakkar",4.7,Asansol
+SUP203,"Edwin, Shere and Bhagat",4.1,Kharagpur
+SUP204,Mannan PLC,4.5,Cuttack
+SUP205,Mukherjee Inc,4.5,Motihari
+SUP206,Dyal PLC,3.6,Aligarh
+SUP207,Saini PLC,4.1,Kota
+SUP208,Bajwa-Deshmukh,5.0,Hazaribagh
+SUP209,Bhardwaj-Sheth,4.8,Chinsurah
+SUP210,Kuruvilla-Bora,4.5,Nizamabad
+SUP211,"Buch, Randhawa and Sridhar",3.6,Bulandshahr
+SUP212,Das-Oak,4.2,Vijayawada
+SUP213,Varty-Mohanty,4.6,Bhagalpur
+SUP214,Bobal-Mand,3.3,Nashik
+SUP215,Dass and Sons,5.0,Indore
+SUP216,Chaudhuri PLC,4.2,Nagaon
+SUP217,Talwar-Krishnan,4.3,Berhampore
+SUP218,Venkataraman-Pingle,3.7,North Dumdum
+SUP219,Gour Ltd,4.5,North Dumdum
+SUP220,"Nori, Padmanabhan and Mishra",3.5,Mira-Bhayandar
+SUP221,"Sabharwal, Parikh and Bhakta",4.5,Bally
+SUP222,Pingle-Chokshi,4.8,Dindigul
+SUP223,Wagle LLC,4.6,Medininagar
+SUP224,"Narula, Choudhry and Pradhan",3.8,Udaipur
+SUP225,Zachariah Inc,3.1,Jamnagar
+SUP226,Chawla and Sons,4.1,Patiala
+SUP227,Devi Ltd,3.6,Secunderabad
+SUP228,Bajwa-Nayar,3.0,Muzaffarpur
+SUP229,Peri-Lata,4.0,Hindupur
+SUP230,"Sinha, Sastry and Goswami",4.6,Durg
+SUP231,"Jaggi, Kapur and Rastogi",3.1,Durgapur
+SUP232,"Naik, Dass and Ghosh",3.0,Aurangabad
+SUP233,"Dutta, Sankaran and Issac",5.0,Bijapur
+SUP234,Bhalla Ltd,3.1,Bhubaneswar
+SUP235,Loke-Halder,3.8,Siliguri
+SUP236,Biswas-Gola,3.0,Vijayawada
+SUP237,Iyer-Nadig,3.1,Ambala
+SUP238,"Gera, Date and Salvi",4.6,Dehri
+SUP239,"Rajagopalan, Bala and Radhakrishnan",3.6,Phagwara
+SUP240,Warrior-Atwal,4.3,Sambhal
+SUP241,Pingle LLC,3.5,Haridwar
+SUP242,"Menon, Master and Nagy",3.3,Varanasi
+SUP243,Rai Group,3.5,Bhiwani
+SUP244,Malhotra-Bahl,3.7,Amritsar
+SUP245,"Kohli, Agrawal and Rama",3.9,Akola
+SUP246,"Dar, Sheth and Garde",4.4,Bharatpur
+SUP247,Shukla-Ahluwalia,4.3,Guna
+SUP248,"Kumer, Magar and Sami",4.0,Gangtok
+SUP249,Sekhon PLC,3.4,Anantapur
+SUP250,Bhargava PLC,3.9,Aurangabad
+SUP251,"Swaminathan, Arya and Bala",4.8,Giridih
+SUP252,Kota PLC,4.1,Bidhannagar
+SUP253,"Hayer, Savant and Patel",3.4,Kochi
+SUP254,Devi Inc,3.9,Buxar
+SUP255,Pingle Group,4.8,Rohtak
+SUP256,"Wason, Ramaswamy and Randhawa",4.0,Medininagar
+SUP257,Ganesan-Gill,4.7,Rajkot
+SUP258,Kumar Ltd,4.9,Madhyamgram
+SUP259,Barman Group,3.3,Bidar
+SUP260,Subramanian Group,4.6,Jehanabad
+SUP261,Rattan Group,4.5,North Dumdum
+SUP262,Kapadia Ltd,3.3,Shimoga
+SUP263,Dey-Goyal,3.9,Mumbai
+SUP264,"Gandhi, Raj and Nagar",4.4,Madanapalle
+SUP265,Saxena-Mangal,3.3,Satna
+SUP266,"Chahal, Sastry and Narula",3.7,Maheshtala
+SUP267,Ratti-Varkey,3.5,Begusarai
+SUP268,Roy-Thakur,3.4,Thrissur
+SUP269,"Walla, Shenoy and Tripathi",4.2,Mumbai
+SUP270,Sami-Sagar,4.4,Orai
+SUP271,Murty-Shroff,3.4,Khandwa
+SUP272,Bhalla PLC,4.3,Ambarnath
+SUP273,"Sahni, Handa and Bir",4.6,Uluberia
+SUP274,Mander-Chakrabarti,3.5,Bokaro
+SUP275,Dube PLC,3.2,Sasaram
+SUP276,"Kunda, Goda and Rout",4.1,Haridwar
+SUP277,Nigam-Bail,4.6,Vellore
+SUP278,"Varty, Sha and Modi",4.9,Dhule
+SUP279,Jha-Balasubramanian,4.5,Pondicherry
+SUP280,"Srivastava, Chandra and Randhawa",3.7,Salem
+SUP281,Shan Ltd,4.8,Bhopal
+SUP282,Date-Sundaram,4.2,Nangloi Jat
+SUP283,Gola-Dhingra,4.4,Alwar
+SUP284,Vaidya and Sons,3.1,Srikakulam
+SUP285,Garde and Sons,4.7,Tenali
+SUP286,Sagar Ltd,3.9,Bhimavaram
+SUP287,"Andra, Sur and Munshi",4.4,Korba
+SUP288,"Pingle, Bhardwaj and Bajwa",4.6,Suryapet
+SUP289,Vohra LLC,4.1,Faridabad
+SUP290,"Cheema, Panchal and Sankar",3.7,Bhavnagar
+SUP291,Sachdev PLC,3.1,Chinsurah
+SUP292,Deshmukh-Mani,4.6,Chapra
+SUP293,Mahal LLC,3.9,Thane
+SUP294,Patel Group,3.4,Ramgarh
+SUP295,Palan Group,3.9,Unnao
+SUP296,Wable Group,3.2,Junagadh
+SUP297,Nath LLC,3.1,Ghaziabad
+SUP298,Dhillon-Agrawal,4.6,Amritsar
+SUP299,"Borra, Jani and Chaudry",3.7,Dhanbad
+SUP300,Chatterjee and Sons,3.6,Panvel
